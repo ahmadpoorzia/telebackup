@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="choose_size_of_files">
+        <item>۱ مگابایت</item>
+        <item>۲ مگابایت</item>
+        <item>۵  مگابایت</item>
+        <item>۱۰ مگابایت</item>
+        <item>همه</item>
+    </string-array>
+</resources>

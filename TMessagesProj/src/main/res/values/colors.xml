@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="divider">#dcdcdc</color>
+    <color name="main_button">#ff45658d</color>
+    <color name="main_button_stopped">#fe583b</color>
+    <color name="main_button_text_color">#ffffff</color>
+</resources>

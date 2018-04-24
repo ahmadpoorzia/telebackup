@@ -1,0 +1,14 @@
+.idea/
+.gradle/
+build/
+obj/
+*.iml
+local.properties
+*.keystore
+*.apk
+gradle.properties
+TMessagesProj/armv7/
+TMessagesProj/armv7_SDK23/
+TMessagesProj/x86/
+TMessagesProj/x86_SDK23/
+TMessagesProj/src/main/java/org/backgram/messenger/BuildVars.java

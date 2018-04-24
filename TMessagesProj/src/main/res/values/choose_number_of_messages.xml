@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="choose_messages_count_array">
+        <item>۵۰۰ پیام آخر</item>
+        <item>۱۰۰۰ پیام آخر</item>
+        <item>۲۰۰۰ پیام آخر</item>
+        <item>۳۰۰۰ پیام آخر</item>
+        <item>۴۰۰۰ پیام آخر</item>
+        <item>۵۰۰۰ پیام آخر</item>
+        <item>همه</item>
+    </string-array>
+</resources>
